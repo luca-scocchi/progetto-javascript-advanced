@@ -9,7 +9,7 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-https://luca-scocchi/progetto-javascript-advanced
+https://luca-scocchi.github.io/progetto-javascript-advanced/
 
 ## Authors
 - [@luca Scocchi](https://github.com/luca-scocchi )
