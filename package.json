@@ -1,6 +1,7 @@
 {
   "name": "progetto-javascript-advanced-main",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "private": true,
   "scripts": {
@@ -16,5 +17,14 @@
   },
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "main": "webpack.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luca-scocchi/progetto-javascript-advanced.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luca-scocchi/progetto-javascript-advanced/issues"
+  },
+  "homepage": "https://github.com/luca-scocchi/progetto-javascript-advanced#readme"
 }
